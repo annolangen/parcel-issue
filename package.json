@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "run": "parcel index.html",
+    "test": "jest"
+  },
+  "dependencies": {
+    "lit-html": "^1.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "rollup": "^1.23.1",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript2": "^0.24.3",
+    "serve": "^11.2.0",
+    "typescript": "^3.5.2"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
